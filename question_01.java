@@ -3,7 +3,7 @@ public class question_01 {
     public static void main(String[]args){
         Scanner in =new Scanner(System.in);
         String title;
-        String auname;
+        String auname; 
         int year;
         int price;
 
